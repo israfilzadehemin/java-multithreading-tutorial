@@ -1,0 +1,7 @@
+
+•
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(äàìøúÿÿÿÿ8â¼í“‹2J$934815f2-31e6-4f50-8898-a49c9948a703
+r	java:S106"+Replace this use of System.out by a logger.(é³‹ûÿÿÿÿ8¨¸ê“‹2J$a6405f14-9456-4ac7-ba2d-22c370780690
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(åÅç“8§¸ê“‹2J$99968679-a472-4a3e-a057-39dca869edff
+r	java:S106"+Replace this use of System.out by a logger.(½»¢²ùÿÿÿÿ8€çì“‹2J$c246feda-cd62-4672-983f-36d746fdae13

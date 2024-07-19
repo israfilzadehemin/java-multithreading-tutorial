@@ -1,0 +1,35 @@
+
+	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÈŠ‰ç‹2J$f55373d2-51fa-4c77-9e68-14c77eb1dbc3
+	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÊŠ‰ç‹2J$a4311925-004d-4ca3-ba2b-1128808c9186
+ˆ	java:S112j"FDefine and throw a dedicated exception instead of using a generic one.(¹¶¶İ8ËŠ‰ç‹2J$0e97892a-5197-4004-97ed-a90da7244337
+r	java:S106"+Replace this use of System.out by a logger.(ùº¿Êÿÿÿÿÿ8ÓŠ‰ç‹2J$f60e6c37-0f38-4156-bf14-6e2c19df9482
+r	java:S106"+Replace this use of System.out by a logger.(¡à‡Áøÿÿÿÿ8ÔŠ‰ç‹2J$81ba48e0-f6bf-41f3-b965-87e37cd50401
+r	java:S106"+Replace this use of System.out by a logger.(œÔ†øÿÿÿÿÿ8ÖŠ‰ç‹2J$dd07806b-968f-4d29-a4b6-c9e19c5d33ef
+r	java:S106"+Replace this use of System.out by a logger.(÷£¡üÿÿÿÿ8×Š‰ç‹2J$49ef4452-1f2e-4d9f-a04a-a091048d0b8b
+r	java:S106"+Replace this use of System.out by a logger.(†¯ñøÿÿÿÿ8ÙŠ‰ç‹2J$a435acf9-fbe5-4653-9332-75f91d2fe4ca
+r	java:S106"+Replace this use of System.out by a logger.(À·¨™ùÿÿÿÿ8ÚŠ‰ç‹2J$bafc3702-fcd4-432a-811b-a030f5d5781d
+w
+java:S1611!"4Remove the parentheses around the "result" parameter(â•Ã™8ÜŠ‰ç‹2J$a3d7f778-099a-4bbd-9bbe-417e72f10347
+l	java:S106""+Replace this use of System.out by a logger.(‘ô÷8İŠ‰ç‹2J$7cea5d01-1763-4459-bb91-c0d083b4d0cf
+r	java:S106#"+Replace this use of System.out by a logger.(´„Ş¡úÿÿÿÿ8ŞŠ‰ç‹2J$98950fa7-b30f-4035-8bd6-6638bf1072ab
+|
+java:S1611&"4Remove the parentheses around the "result" parameter(Åø¢›üÿÿÿÿ8àŠ‰ç‹2J$76f52b8c-0623-4286-8422-29d089316b1d
+r	java:S106'"+Replace this use of System.out by a logger.(şÿª½úÿÿÿÿ8áŠ‰ç‹2J$ac316d7e-529c-4a73-b356-f050069a473d
+m	java:S106("+Replace this use of System.out by a logger.(ôÓıì8ãŠ‰ç‹2J$0b470e47-b5b0-459f-a3de-031fb48fca16
+ƒ
+java:S1611-";Remove the parentheses around the "celciusResult" parameter(º”Öşüÿÿÿÿ8äŠ‰ç‹2J$3c0f0e18-8066-42d9-b0e3-587bf09d8704
+|
+java:S1611."4Remove the parentheses around the "result" parameter(Í¹¢Îúÿÿÿÿ8æŠ‰ç‹2J$54f79881-7ad6-443b-afdc-ef48921bc9f1
+r	java:S106."+Replace this use of System.out by a logger.(Í¹¢Îúÿÿÿÿ8çŠ‰ç‹2J$74dc5393-b574-40a0-a430-1e70b682438d
+m	java:S1064"+Replace this use of System.out by a logger.( á’Æ8éŠ‰ç‹2J$00d7bd4f-69dc-438a-9151-e921274e9ada
+r	java:S106;"+Replace this use of System.out by a logger.(ô‰øÿÿÿÿ8êŠ‰ç‹2J$c5a8abf9-d55f-454c-be61-74ba53f8b033
+Œ
+java:S2147K"DCombine this catch with the one at line 73, which has the same body.(åşŒóùÿÿÿÿ8îŠ‰ç‹2J$b4b22141-30b4-484c-878e-bdb4ad28e360
+¡
+java:S2142I"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ïŠ‰ç‹2J$df2b8ad0-6e81-4dd5-a4cf-8b086f590b09
+l	java:S106F"+Replace this use of System.out by a logger.(ƒ’Ê_8ğŠ‰ç‹2J$31640900-90a3-43bf-8f6c-10486931a133
+m	java:S106G"+Replace this use of System.out by a logger.(Í¢åñ8ñŠ‰ç‹2J$445b2ca0-98a2-4416-ab70-d2c5df1a7d4b
+m	java:S106H"+Replace this use of System.out by a logger.(–Ù’œ8ñŠ‰ç‹2J$00572e09-e08b-4cdb-8522-029d8f82f455
+r	java:S106Z"+Replace this use of System.out by a logger.(øî„ûÿÿÿÿ8òŠ‰ç‹2J$497ff962-d7fb-474c-897b-842e7f5eb568
+r	java:S106e"+Replace this use of System.out by a logger.(ƒ‹˜ÿÿÿÿÿ8òŠ‰ç‹2J$030950d3-0f24-43fc-8acd-699f59c4b8b6
+m	java:S106r"+Replace this use of System.out by a logger.( á’Æ8óŠ‰ç‹2J$13f06b33-6216-4ef2-af8d-b0656bbc2d48
